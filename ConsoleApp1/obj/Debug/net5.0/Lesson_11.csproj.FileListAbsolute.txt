@@ -1,0 +1,15 @@
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Lesson_11.exe
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Lesson_11.deps.json
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Lesson_11.runtimeconfig.json
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Lesson_11.runtimeconfig.dev.json
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Lesson_11.dll
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\Lesson_11.dll
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Lesson_11.pdb
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Lesson_11.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Lesson_11.AssemblyInfoInputs.cache
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Lesson_11.AssemblyInfo.cs
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Lesson_11.csproj.CoreCompileInputs.cache
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Lesson_11.dll
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Lesson_11.dll
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Lesson_11.pdb
+H:\C#lesson\Lesson_11\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Lesson_11.genruntimeconfig.cache
